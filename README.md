@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Raghav, a student of web development. 
+I'm currently working towards becoming a full stack engineer. 
+I'm doing this by going through the foundations path of The Odin Project. 
