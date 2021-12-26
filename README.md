@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 I'm Raghav, a student of web development. 
 I'm currently working towards becoming a full stack engineer. 
 I'm doing this by going through the foundations path of The Odin Project. 
+
+To see my work, check out the preview links within each project repository. 
